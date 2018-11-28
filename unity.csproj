@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{542E94B8-9F48-83EE-3A35-B6C8F15311F3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
+    <UnityVersion>5.6.2f1</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_2;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_2;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>Library\UnityAssemblies\UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>Library\UnityAssemblies\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>Library\UnityAssemblies\UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VR">
+      <HintPath>Library\UnityAssemblies\UnityEngine.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="LitJson">
+      <HintPath>Assets\Plugins\LitJson.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>Assets\Plugins\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.unity">
+      <HintPath>Assets\Plugins\zxing.unity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Scripts\DataModel\BlockWordModel.cs" />
+    <Compile Include="Assets\Scripts\DataModel\MatchModel.cs" />
+    <Compile Include="Assets\Scripts\DataModel\ProtobufModel.cs" />
+    <Compile Include="Assets\Scripts\DataModel\UserInfoModel.cs" />
+    <Compile Include="Assets\Scripts\Game\Chat\BqItem.cs" />
+    <Compile Include="Assets\Scripts\Game\Chat\BqPanel.cs" />
+    <Compile Include="Assets\Scripts\Game\Chat\ChangyongItem.cs" />
+    <Compile Include="Assets\Scripts\Game\Chat\ChangyongPanel.cs" />
+    <Compile Include="Assets\Scripts\Game\Chat\ChatLogPanel.cs" />
+    <Compile Include="Assets\Scripts\Game\Chat\ChatView.cs" />
+    <Compile Include="Assets\Scripts\Game\Chat\GameChatItem.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\Card.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\CardRules.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\CardUI.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\IView\LandlordsComponentView\Interaction.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\IView\LandlordsComponentView\JipaiqiItem.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\IView\LandlordsComponentView\JipaiqiPanel.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\IView\LandlordsComponentView\LandlordsComponentView.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\IView\LandlordsComponentView\MenuPanel.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\IView\LandlordsPlayView\LandlordsLibraryUI.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\IView\LandlordsPlayView\LandlordsPlayView.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\IView\LandlordsPlayView\LandlordsUIView.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\IView\LandlordsPlayView\TalkView.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\IView\LandlordsResultView\LandlordsResultView.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\Interface\ICard.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\LandlordsNet.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\LandlordsPage\LandlordsPage.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\LandlordsPlayer\DzPopDesk.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\LandlordsPlayer\LandlordsClock.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\LandlordsPlayer\LandlordsPlayer.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\Models\LandlordsModel.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\Models\LandlordsModels.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\Node\InvateNode\InvateItem.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\Node\LandlordsEffectNode\LandlordsEffectNode.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\OrderController.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\PlayCard.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\Result\FangkaResultPanel.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\Result\ResultItem.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\Result\YouxibiResultPanel.cs" />
+    <Compile Include="Assets\Scripts\Game\Ddz\Type.cs" />
+    <Compile Include="Assets\Scripts\Game\MaJong\MaJangEffect.cs" />
+    <Compile Include="Assets\Scripts\Game\MaJong\MaJangModel.cs" />
+    <Compile Include="Assets\Scripts\Game\MaJong\MaJangPage.cs" />
+    <Compile Include="Assets\Scripts\Game\MaJong\MaJangPlayer.cs" />
+    <Compile Include="Assets\Scripts\Game\MaJong\MaJangResultItem.cs" />
+    <Compile Include="Assets\Scripts\Game\MaJong\MaJangScene.cs" />
+    <Compile Include="Assets\Scripts\Main\AboutNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Bag\BagCashItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Bag\BagCashPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Bag\BagGoodsItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Bag\BagGoodsPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Bag\BagNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Bag\BagRedeemItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Bag\BagRedeemPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Bag\BagSalePanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Bag\BagSeePanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Bag\BagUseItem.cs" />
+    <Compile Include="Assets\Scripts\Main\CityPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\FloatBall\FloatBall.cs" />
+    <Compile Include="Assets\Scripts\Main\FloatBall\FloatBallItem.cs" />
+    <Compile Include="Assets\Scripts\Main\FloatBall\FloatBallManager.cs" />
+    <Compile Include="Assets\Scripts\Main\FloatBall\FloatBallNode.cs" />
+    <Compile Include="Assets\Scripts\Main\FloatBall\FloatBallWheel.cs" />
+    <Compile Include="Assets\Scripts\Main\HelpItem.cs" />
+    <Compile Include="Assets\Scripts\Main\HelpNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Jiesan\JiesanItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Laba\TrumpetItem.cs" />
+    <Compile Include="Assets\Scripts\Main\LoginPage.cs" />
+    <Compile Include="Assets\Scripts\Main\MainPage.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Apply\MatchApplyLeftPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Apply\MatchApplyNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Apply\MatchApplyQuitPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Apply\MatchApplyRightPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatchBottomPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatchItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatchJoinItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatchJoinNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatchPage.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatchRankRewardNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatchResultNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatchReward.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatchRulesNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatcherRankItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\MatcherRewardItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Ready\MatchChatItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Ready\MatchChatPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Ready\MatchCountdownPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Ready\MatchInvitePanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Ready\MatchRankShowPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Ready\MatchReadyExitPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Ready\MatchReadyInviteItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Ready\MatchReadyNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Record\MatchFriendNotHavePanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Record\MatchFriendRankItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Record\MatchFriendRankPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Record\MatchHistoryRecordItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Record\MatchHistoryRecordPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Record\MatchMyRecordPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Record\MatchMyRecordRewardItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Record\MatchRecordNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Wait\MatchWaitBottomPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Wait\MatchWaitFormatPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Wait\MatchWaitNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Wait\MatchWaitRankRewardPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Wait\MatchWaitStageItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Match\Wait\MatchWaitTopPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\MessageItem.cs" />
+    <Compile Include="Assets\Scripts\Main\MessageModel.cs" />
+    <Compile Include="Assets\Scripts\Main\MessageNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Rank\RankBottomPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Rank\RankItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Rank\RankNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Rank\RankPlayInfoPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\SafeBoxNode.cs" />
+    <Compile Include="Assets\Scripts\Main\ScannerPage.cs" />
+    <Compile Include="Assets\Scripts\Main\Select\SelectBottomPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Select\SelectDdzPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Select\SelectItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Select\SelectMJPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Select\SelectRoomPage.cs" />
+    <Compile Include="Assets\Scripts\Main\SetGameNode.cs" />
+    <Compile Include="Assets\Scripts\Main\SetNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\ChatInfoItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\ChatPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\FindFriendPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\FriendRankItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\FriendRankPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\GiveView.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\KnowItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\KnowPanelPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\MessagePanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\MessagePanelItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\NearItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\NearPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\RoleInfoView.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\SocialModel.cs" />
+    <Compile Include="Assets\Scripts\Main\Social\SocialSmallTab.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreAgItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreAgPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreAgRechargePanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreCardItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreCardPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreCardRechargePanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreGoldItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreGoldPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreGoldRechargePanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreNode.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreRechargeResultPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreVipItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreVipPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Store\StoreVipRechargePanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Suggest\QuestionItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Task\TaskItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Task\TaskRewardPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\TopRightPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Yuepai\CreateGameBasePanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Yuepai\CreateGameDdzPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Yuepai\CreateGameMjPanel.cs" />
+    <Compile Include="Assets\Scripts\Main\Yuepai\ShareItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Yuepai\YuepaiHorizontalItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Yuepai\YuepaiLogItem.cs" />
+    <Compile Include="Assets\Scripts\Main\Yuepai\YuepaiResultItem.cs" />
+    <Compile Include="Assets\Scripts\Manager\AudioManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\BundleManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\AddFriendTipNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\CardResultShowNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\ChatNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\CreateGameNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\FeedbackNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\GameRoleInfoNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\InvateNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\JiesanNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\JoinGameRoonNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\LoadingNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\NoticeNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\RechargeVIPNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\ReportNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\ShareNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\SocialNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\TaskNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\TipsEnterNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\TrumpetNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\UserInfoNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Node\YuepaiLogNode.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\NodeManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\Page.cs" />
+    <Compile Include="Assets\Scripts\Manager\PageManager\PageManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\PoolManager\PoolBase.cs" />
+    <Compile Include="Assets\Scripts\Manager\PoolManager\PoolEntity.cs" />
+    <Compile Include="Assets\Scripts\Manager\PoolManager\PoolManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\PoolManager\PoolUnit.cs" />
+    <Compile Include="Assets\Scripts\Manager\PoolManager\PoolUnitList.cs" />
+    <Compile Include="Assets\Scripts\Manager\QRCode.cs" />
+    <Compile Include="Assets\Scripts\Manager\ShareManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\TaskManager\TaskInfo.cs" />
+    <Compile Include="Assets\Scripts\Manager\TaskManager\TaskManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\TextManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\ThirdPartySdkManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\TipManager.cs" />
+    <Compile Include="Assets\Scripts\Socket\ByteBuffer.cs" />
+    <Compile Include="Assets\Scripts\Socket\SocketClient.cs" />
+    <Compile Include="Assets\Scripts\Tool\ArrayHelper.cs" />
+    <Compile Include="Assets\Scripts\Tool\CallBackDef.cs" />
+    <Compile Include="Assets\Scripts\Tool\CommonAnimation.cs" />
+    <Compile Include="Assets\Scripts\Tool\FPS.cs" />
+    <Compile Include="Assets\Scripts\Tool\GameTool.cs" />
+    <Compile Include="Assets\Scripts\Tool\GradientColor.cs" />
+    <Compile Include="Assets\Scripts\Tool\LitJsonExtension.cs" />
+    <Compile Include="Assets\Scripts\Tool\Loom.cs" />
+    <Compile Include="Assets\Scripts\Tool\ProtobufSerilizer.cs" />
+    <Compile Include="Assets\Scripts\Tool\RadioButton.cs" />
+    <Compile Include="Assets\Scripts\Tool\ScrollRectMe.cs" />
+    <Compile Include="Assets\Scripts\Tool\SequenceAnimation.cs" />
+    <Compile Include="Assets\Scripts\Tool\Tab.cs" />
+    <Compile Include="Assets\Scripts\Tool\TabPageGroup.cs" />
+    <Compile Include="Assets\Scripts\Tool\Timer.cs" />
+    <Compile Include="Assets\Scripts\Tool\UGUIEventListener.cs" />
+    <Compile Include="Assets\Scripts\Tool\UIWarpContent.cs" />
+    <Compile Include="Assets\Scripts\Tool\UIWarpContentItem.cs" />
+    <Compile Include="Assets\Scripts\Util\ConstantUtils.cs" />
+    <Compile Include="Assets\Scripts\Util\InputUtils.cs" />
+    <Compile Include="Assets\Scripts\Util\MiscUtils.cs" />
+    <Compile Include="Assets\Scripts\Util\ParticleToFrame.cs" />
+    <Compile Include="Assets\Scripts\Util\Test.cs" />
+    <Compile Include="Assets\Scripts\Util\UIUtils.cs" />
+    <Compile Include="Assets\Scripts\Voice\GVoice.cs" />
+    <Compile Include="Assets\Scripts\Voice\GcloudVoice.cs" />
+    <Compile Include="Assets\Scripts\Voice\GcloudVoiceEngine.cs" />
+    <Compile Include="Assets\Scripts\Voice\RoomLeftBtns.cs" />
+    <Compile Include="Assets\Test\cardAnimationTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\Android\GCloudVoice\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\Android\app-debug\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\zxing.unity.xml" />
+    <None Include="Assets\Resources\BlockConfig\BlockConfig.txt" />
+    <None Include="Assets\Resources\Shader\ImageToGrey.shader" />
+    <None Include="Assets\StreamingAssets\AssetBundle\Android\Bundle.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+</Project>

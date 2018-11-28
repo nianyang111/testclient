@@ -1,0 +1,188 @@
+{
+    "0": {
+        "designation": "不堪一击", 
+        "exp": 0, 
+        "id": 0, 
+        "level": 0
+    }, 
+    "1": {
+        "designation": "粗懂皮毛", 
+        "exp": 50, 
+        "id": 1, 
+        "level": 1
+    }, 
+    "10": {
+        "designation": "青出於蓝", 
+        "exp": 3150, 
+        "id": 10, 
+        "level": 10
+    }, 
+    "11": {
+        "designation": "融会贯通", 
+        "exp": 3750, 
+        "id": 11, 
+        "level": 11
+    }, 
+    "12": {
+        "designation": "心领神会", 
+        "exp": 4400, 
+        "id": 12, 
+        "level": 12
+    }, 
+    "13": {
+        "designation": "炉火纯青", 
+        "exp": 5050, 
+        "id": 13, 
+        "level": 13
+    }, 
+    "14": {
+        "designation": "了然于胸", 
+        "exp": 5800, 
+        "id": 14, 
+        "level": 14
+    }, 
+    "15": {
+        "designation": "已臻大成", 
+        "exp": 6500, 
+        "id": 15, 
+        "level": 15
+    }, 
+    "16": {
+        "designation": "精深奥妙", 
+        "exp": 7350, 
+        "id": 16, 
+        "level": 16
+    }, 
+    "17": {
+        "designation": "非比寻常", 
+        "exp": 8200, 
+        "id": 17, 
+        "level": 17
+    }, 
+    "18": {
+        "designation": "出类拔萃", 
+        "exp": 9100, 
+        "id": 18, 
+        "level": 18
+    }, 
+    "19": {
+        "designation": "罕有敌手", 
+        "exp": 10000, 
+        "id": 19, 
+        "level": 19
+    }, 
+    "2": {
+        "designation": "略知一二", 
+        "exp": 150, 
+        "id": 2, 
+        "level": 2
+    }, 
+    "20": {
+        "designation": "技冠群雄", 
+        "exp": 11000, 
+        "id": 20, 
+        "level": 20
+    }, 
+    "21": {
+        "designation": "神乎其技", 
+        "exp": 12000, 
+        "id": 21, 
+        "level": 21
+    }, 
+    "22": {
+        "designation": "出神入化", 
+        "exp": 13050, 
+        "id": 22, 
+        "level": 22
+    }, 
+    "23": {
+        "designation": "神功盖世", 
+        "exp": 14150, 
+        "id": 23, 
+        "level": 23
+    }, 
+    "24": {
+        "designation": "惊世骇俗", 
+        "exp": 15250, 
+        "id": 24, 
+        "level": 24
+    }, 
+    "25": {
+        "designation": "举世无双", 
+        "exp": 16400, 
+        "id": 25, 
+        "level": 25
+    }, 
+    "26": {
+        "designation": "傲视群雄", 
+        "exp": 17600, 
+        "id": 26, 
+        "level": 26
+    }, 
+    "27": {
+        "designation": "登峰造极", 
+        "exp": 18850, 
+        "id": 27, 
+        "level": 27
+    }, 
+    "28": {
+        "designation": "返璞归真", 
+        "exp": 20100, 
+        "id": 28, 
+        "level": 28
+    }, 
+    "29": {
+        "designation": "功行圆满", 
+        "exp": 21400, 
+        "id": 29, 
+        "level": 29
+    }, 
+    "3": {
+        "designation": "初学乍练", 
+        "exp": 350, 
+        "id": 3, 
+        "level": 3
+    }, 
+    "30": {
+        "designation": "一代宗师", 
+        "exp": 25000, 
+        "id": 30, 
+        "level": 30
+    }, 
+    "4": {
+        "designation": "初窥门径", 
+        "exp": 600, 
+        "id": 4, 
+        "level": 4
+    }, 
+    "5": {
+        "designation": "初出茅庐", 
+        "exp": 900, 
+        "id": 5, 
+        "level": 5
+    }, 
+    "6": {
+        "designation": "渐入佳境", 
+        "exp": 1250, 
+        "id": 6, 
+        "level": 6
+    }, 
+    "7": {
+        "designation": "已有小成", 
+        "exp": 1650, 
+        "id": 7, 
+        "level": 7
+    }, 
+    "8": {
+        "designation": "鹤立鸡群", 
+        "exp": 2100, 
+        "id": 8, 
+        "level": 8
+    }, 
+    "9": {
+        "designation": "驾轻就熟", 
+        "exp": 2600, 
+        "id": 9, 
+        "level": 9
+    }
+}

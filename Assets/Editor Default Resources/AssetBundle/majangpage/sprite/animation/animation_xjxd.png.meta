@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 5feb140cdbab347449df6f5a2f393c3d
+timeCreated: 1508148254
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animation_majiang_xiaojixiadan_0
+    21300002: animation_majiang_xiaojixiadan_1
+    21300004: animation_majiang_xiaojixiadan_2
+    21300006: animation_majiang_xiaojixiadan_3
+    21300008: animation_majiang_xiaojixiadan_4
+    21300010: animation_majiang_xiaojixiadan_5
+    21300012: animation_majiang_xiaojixiadan_6
+    21300014: animation_majiang_xiaojixiadan_8
+    21300016: animation_majiang_xiaojixiadan_12
+    21300018: animation_majiang_xiaojixiadan_13
+    21300020: animation_majiang_xiaojixiadan_14
+    21300022: animation_majiang_xiaojixiadan_15
+    21300024: animation_majiang_xiaojixiadan_16
+    21300026: animation_majiang_xiaojixiadan_19
+    21300028: animation_majiang_xiaojixiadan_20
+    21300030: animation_majiang_xiaojixiadan_21
+    21300032: animation_majiang_xiaojixiadan_22
+    21300034: animation_majiang_xiaojixiadan_23
+    21300036: animation_majiang_xiaojixiadan_24
+    21300038: animation_majiang_xiaojixiadan_25
+    21300040: animation_majiang_xiaojixiadan_26
+    21300042: animation_majiang_xiaojixiadan_27
+    21300044: animation_majiang_xiaojixiadan_28
+    21300046: animation_majiang_xiaojixiadan_29
+    21300048: animation_majiang_xiaojixiadan_30
+    21300050: animation_majiang_xiaojixiadan_31
+    21300052: animation_majiang_xiaojixiadan_32
+    21300054: animation_majiang_xiaojixiadan_33
+    21300056: animation_majiang_xiaojixiadan_34
+    21300058: animation_majiang_xiaojixiadan_36
+    21300060: animation_majiang_xiaojixiadan_37
+    21300062: animation_majiang_xiaojixiadan_38
+    21300064: animation_xjxd_0
+    21300066: animation_xjxd_1
+    21300068: animation_xjxd_2
+    21300070: animation_xjxd_3
+    21300072: animation_xjxd_4
+    21300074: animation_xjxd_5
+    21300076: animation_xjxd_6
+    21300078: animation_xjxd_7
+    21300080: animation_xjxd_8
+    21300082: animation_xjxd_9
+    21300084: animation_xjxd_10
+    21300086: animation_xjxd_11
+    21300088: animation_xjxd_12
+    21300090: animation_xjxd_13
+    21300092: animation_xjxd_14
+    21300094: animation_xjxd_15
+    21300096: animation_xjxd_16
+    21300098: animation_xjxd_17
+    21300100: animation_xjxd_18
+    21300102: animation_xjxd_19
+    21300104: animation_xjxd_20
+    21300106: animation_xjxd_21
+    21300108: animation_xjxd_22
+    21300110: animation_xjxd_23
+    21300112: animation_xjxd_24
+    21300114: animation_xjxd_25
+    21300116: animation_xjxd_26
+    21300118: animation_xjxd_27
+    21300120: animation_xjxd_28
+    21300122: animation_xjxd_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation_xjxd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2256
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2256
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2256
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_3
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2256
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_4
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 2256
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_5
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 2256
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_7
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1692
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_8
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1692
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_9
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1692
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_10
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1692
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_11
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 1692
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_13
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1128
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_14
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1128
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_15
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1128
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_16
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1128
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_17
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 1128
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_19
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 564
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_20
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 564
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_21
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 564
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_22
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 564
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_23
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 564
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_26
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_27
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 0
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_28
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 0
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: animation_xjxd_29
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 0
+        width: 548
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

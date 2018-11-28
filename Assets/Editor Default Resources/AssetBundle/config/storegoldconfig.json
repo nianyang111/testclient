@@ -1,0 +1,56 @@
+{
+    "2001": {
+        "id": 2001, 
+        "itemIcon": "store_gold_icon1", 
+        "itemNum": 200, 
+        "ratioNum": 100
+    }, 
+    "2002": {
+        "id": 2002, 
+        "itemIcon": "store_gold_icon2", 
+        "itemNum": 600, 
+        "ratioNum": 100
+    }, 
+    "2003": {
+        "id": 2003, 
+        "itemIcon": "store_gold_icon3", 
+        "itemNum": 1200, 
+        "ratioNum": 100
+    }, 
+    "2004": {
+        "id": 2004, 
+        "itemIcon": "store_gold_icon4", 
+        "itemNum": 2000, 
+        "ratioNum": 100
+    }, 
+    "2005": {
+        "id": 2005, 
+        "itemIcon": "store_gold_icon5", 
+        "itemNum": 3000, 
+        "ratioNum": 100
+    }, 
+    "2006": {
+        "id": 2006, 
+        "itemIcon": "store_gold_icon6", 
+        "itemNum": 5000, 
+        "ratioNum": 100
+    }, 
+    "2007": {
+        "id": 2007, 
+        "itemIcon": "store_gold_icon7", 
+        "itemNum": 10000, 
+        "ratioNum": 100
+    }, 
+    "2008": {
+        "id": 2008, 
+        "itemIcon": "store_gold_icon8", 
+        "itemNum": 30000, 
+        "ratioNum": 100
+    }, 
+    "2009": {
+        "id": 2009, 
+        "itemIcon": "store_gold_icon9", 
+        "itemNum": 50000, 
+        "ratioNum": 100
+    }
+}

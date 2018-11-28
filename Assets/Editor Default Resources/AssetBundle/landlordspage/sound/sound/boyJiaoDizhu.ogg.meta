@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 50fa93c4c75058f4e9a8a0cec0d0593e
+timeCreated: 1510800325
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: landlordspage/sound/sound/boyjiaodizhu
+  assetBundleVariant: 

@@ -1,0 +1,98 @@
+{
+    "1": {
+        "chatContent": "这副牌好差哟，一点都不想玩了", 
+        "id": 1, 
+        "soundBoy": "boy_1", 
+        "soundGirl": "girl_1"
+    }, 
+    "10": {
+        "chatContent": "这个牌你也敢打", 
+        "id": 10, 
+        "soundBoy": "boy_10", 
+        "soundGirl": "girl_10"
+    }, 
+    "11": {
+        "chatContent": "厉害了，还可以这样打", 
+        "id": 11, 
+        "soundBoy": "boy_11", 
+        "soundGirl": "girl_11"
+    }, 
+    "12": {
+        "chatContent": "就当教交学费了，不用太在意", 
+        "id": 12, 
+        "soundBoy": "boy_12", 
+        "soundGirl": "girl_12"
+    }, 
+    "13": {
+        "chatContent": "哎哟，你这是跟赌神学的吧", 
+        "id": 13, 
+        "soundBoy": "boy_13", 
+        "soundGirl": "girl_13"
+    }, 
+    "14": {
+        "chatContent": "你打的也太差了吧", 
+        "id": 14, 
+        "soundBoy": "boy_14", 
+        "soundGirl": "girl_14"
+    }, 
+    "15": {
+        "chatContent": "别乱打啊，是不是给别人喂牌哟", 
+        "id": 15, 
+        "soundBoy": "boy_15", 
+        "soundGirl": "girl_15"
+    }, 
+    "16": {
+        "chatContent": "好久没赢了，让我赢一把嘛", 
+        "id": 16, 
+        "soundBoy": "boy_16", 
+        "soundGirl": "girl_16"
+    }, 
+    "2": {
+        "chatContent": "快点哟，天都要黑了", 
+        "id": 2, 
+        "soundBoy": "boy_2", 
+        "soundGirl": "girl_2"
+    }, 
+    "3": {
+        "chatContent": "哇，这副牌真的太好了", 
+        "id": 3, 
+        "soundBoy": "boy_3", 
+        "soundGirl": "girl_3"
+    }, 
+    "4": {
+        "chatContent": "不怕神一样的对手，就怕猪一样的队友", 
+        "id": 4, 
+        "soundBoy": "boy_4", 
+        "soundGirl": "girl_4"
+    }, 
+    "5": {
+        "chatContent": "嘿嘿，你打牌的技术不错嘛", 
+        "id": 5, 
+        "soundBoy": "boy_5", 
+        "soundGirl": "girl_5"
+    }, 
+    "6": {
+        "chatContent": "和你合作，真是太愉快了", 
+        "id": 6, 
+        "soundBoy": "boy_6", 
+        "soundGirl": "girl_6"
+    }, 
+    "7": {
+        "chatContent": "等等，打错了，可以收回吗", 
+        "id": 7, 
+        "soundBoy": "boy_7", 
+        "soundGirl": "girl_7"
+    }, 
+    "8": {
+        "chatContent": "别磨叽了，反正都是输", 
+        "id": 8, 
+        "soundBoy": "boy_8", 
+        "soundGirl": "girl_8"
+    }, 
+    "9": {
+        "chatContent": "快点打嘛，你打的太慢了", 
+        "id": 9, 
+        "soundBoy": "boy_9", 
+        "soundGirl": "girl_9"
+    }
+}

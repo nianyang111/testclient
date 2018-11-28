@@ -1,0 +1,14 @@
+{
+    "2019": {
+        "id": 2019, 
+        "itemIcon": "store_vip_icon1", 
+        "rmbNum": 10, 
+        "vipDay": 7
+    }, 
+    "2020": {
+        "id": 2020, 
+        "itemIcon": "store_vip_icon2", 
+        "rmbNum": 30, 
+        "vipDay": 30
+    }
+}

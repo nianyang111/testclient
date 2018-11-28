@@ -1,0 +1,56 @@
+{
+    "2010": {
+        "id": 2010, 
+        "itemIcon": "store_ag_icon1", 
+        "itemNum": 20000, 
+        "ratioNum": 100
+    }, 
+    "2011": {
+        "id": 2011, 
+        "itemIcon": "store_ag_icon2", 
+        "itemNum": 60000, 
+        "ratioNum": 100
+    }, 
+    "2012": {
+        "id": 2012, 
+        "itemIcon": "store_ag_icon3", 
+        "itemNum": 120000, 
+        "ratioNum": 100
+    }, 
+    "2013": {
+        "id": 2013, 
+        "itemIcon": "store_ag_icon4", 
+        "itemNum": 200000, 
+        "ratioNum": 100
+    }, 
+    "2014": {
+        "id": 2014, 
+        "itemIcon": "store_ag_icon5", 
+        "itemNum": 300000, 
+        "ratioNum": 100
+    }, 
+    "2015": {
+        "id": 2015, 
+        "itemIcon": "store_ag_icon6", 
+        "itemNum": 500000, 
+        "ratioNum": 100
+    }, 
+    "2016": {
+        "id": 2016, 
+        "itemIcon": "store_ag_icon7", 
+        "itemNum": 1000000, 
+        "ratioNum": 100
+    }, 
+    "2017": {
+        "id": 2017, 
+        "itemIcon": "store_ag_icon8", 
+        "itemNum": 3000000, 
+        "ratioNum": 100
+    }, 
+    "2018": {
+        "id": 2018, 
+        "itemIcon": "store_ag_icon9", 
+        "itemNum": 5000000, 
+        "ratioNum": 100
+    }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "iconRes": "Landlords_icon_man_farmer", 
+        "sid": "1"
+    }, 
+    {
+        "iconRes": "Landlords_icon_women_famer", 
+        "sid": "2"
+    }, 
+    {
+        "iconRes": "Landlords_icon_women_landlord", 
+        "sid": "3"
+    }, 
+    {
+        "iconRes": "Landlords_icon_man_landlord", 
+        "sid": "4"
+    }, 
+    {
+        "iconRes": "Landlords_icon_robot", 
+        "sid": "5"
+    }, 
+    {
+        "iconRes": "Landlords_icon_two_landlord", 
+        "sid": "6"
+    }
+]

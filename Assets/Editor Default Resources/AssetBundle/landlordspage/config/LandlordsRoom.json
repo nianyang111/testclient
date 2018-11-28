@@ -1,0 +1,50 @@
+[
+    {
+        "LeastStore": 0, 
+        "NeedGold": 0, 
+        "RoomID": "1", 
+        "RoomIconID": "1", 
+        "RoomName": "\u4f53\u9a8c\u573a", 
+        "RoomType": 0
+    }, 
+    {
+        "LeastStore": 200, 
+        "NeedGold": 4800, 
+        "RoomID": "2", 
+        "RoomIconID": "2", 
+        "RoomName": "\u65b0\u624b\u573a", 
+        "RoomType": 1
+    }, 
+    {
+        "LeastStore": 2000, 
+        "NeedGold": 48000, 
+        "RoomID": "3", 
+        "RoomIconID": "3", 
+        "RoomName": "\u521d\u7ea7\u573a", 
+        "RoomType": 1
+    }, 
+    {
+        "LeastStore": 10000, 
+        "NeedGold": 240000, 
+        "RoomID": "4", 
+        "RoomIconID": "4", 
+        "RoomName": "\u4e2d\u7ea7\u573a", 
+        "RoomType": 1
+    }, 
+    {
+        "LeastStore": 50000, 
+        "NeedGold": 1200000, 
+        "RoomID": "5", 
+        "RoomIconID": "5", 
+        "RoomName": "\u9ad8\u7ea7\u573a", 
+        "RoomType": 1
+    }, 
+    {
+        "LeastStore": 200000, 
+        "NeedGold": 4800000, 
+        "RoomID": "8", 
+        "RoomIconID": "6", 
+        "RoomName": "\u5927\u5e08\u573a", 
+        "RoomType": 1
+    }
+]

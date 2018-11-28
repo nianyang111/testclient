@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="unity.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Util\UIUtils.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Socket\SocketClient.cs" Line="525" Column="35" />
+      <File FileName="Assets\Scripts\Util\UIUtils.cs" Line="16" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

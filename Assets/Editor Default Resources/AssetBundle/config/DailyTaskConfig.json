@@ -1,0 +1,38 @@
+{
+    "20001": {
+        "id": 20001,
+        "taskIcon": "meirirenwu_pic_1",
+        "taskName": "麻将胜利3局",
+        "conditionId": "麻将",
+        "conditionCount": 3,
+        "rewardId": 0,
+        "rewardCount": 2000
+    },
+    "20002": {
+        "id": 20002,
+        "taskIcon": "meirirenwu_pic_2",
+        "taskName": "斗地主胜利3局",
+        "conditionId": "斗地主",
+        "conditionCount": 5,        
+        "rewardId": 0,
+        "rewardCount": 3000
+    },
+    "20003": {
+        "id": 20003,    
+        "taskIcon": "meirirenwu_pic_3",
+        "taskName": "分享到朋友圈一次",
+        "conditionId": "朋友圈",
+        "conditionCount": 1, 
+        "rewardId": 0,
+        "rewardCount": 3000
+    },
+    "20004": {
+        "id": 20004,
+        "taskIcon": "meirirenwu_pic_4",
+        "taskName": "和好友“开房”一次",
+        "conditionId": "开房",
+        "conditionCount": 1,      
+        "rewardId": 0,
+        "rewardCount": 5000
+    }
+}

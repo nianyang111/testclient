@@ -1,0 +1,34 @@
+{
+    "20001": {
+        "activityIcon": "task/meirirenwu_pic_3", 
+        "activityLink": "MatchPage", 
+        "activityType": "比赛送话费",
+        "activityAngle": 0, 
+        "special": "Page",
+        "id": 20001
+    }, 
+    "20002": {
+        "activityIcon": "Store/store_vip_icon2", 
+        "activityLink": "StoreNode", 
+        "activityType": "提升VIP", 
+        "activityAngle": 90, 
+        "special": "Node",
+        "id": 20002
+    }, 
+    "20003": {
+        "activityIcon": "Common/normal_panel_11", 
+        "activityLink": "TaskNode", 
+        "activityType": "分享朋友圈",
+        "activityAngle": 180, 
+        "special": "Node",
+        "id": 20003
+    }, 
+    "20004": {
+        "activityIcon": "task/meirirenwu_pic_4", 
+        "activityLink": "JoinGameRoonNode", 
+        "activityType": "一起来约牌",
+        "activityAngle": 270, 
+        "special": "Node",
+        "id": 20004
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1": {
+        "Round": 6, 
+        "ante": "1", 
+        "expendRoomcard": 3, 
+        "id": 1, 
+        "multipleLimit": 20, 
+        "powerLimit": 1, 
+        "winPoint": 1
+    }, 
+    "2": {
+        "Round": 12, 
+        "ante": "1", 
+        "expendRoomcard": 4, 
+        "id": 2, 
+        "multipleLimit": 40, 
+        "powerLimit": 2, 
+        "winPoint": 1
+    }, 
+    "3": {
+        "Round": 16, 
+        "ante": "1", 
+        "expendRoomcard": 5, 
+        "id": 3, 
+        "multipleLimit": 80, 
+        "powerLimit": 3, 
+        "winPoint": 1
+    }, 
+    "4": {
+        "Round": 20, 
+        "ante": "1", 
+        "expendRoomcard": 6, 
+        "id": 4, 
+        "multipleLimit": 160, 
+        "powerLimit": 4, 
+        "winPoint": 1
+    }
+}

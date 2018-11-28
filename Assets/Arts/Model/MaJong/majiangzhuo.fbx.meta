@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 94a92b13051951b458ea2dd75aefa6eb
+timeCreated: 1503561923
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: shaizi1:pCube1
+    100004: shaizi1:pCube2
+    100006: shaizi1:polySurface1
+    100008: shaizi1:polySurface10
+    100010: shaizi1:polySurface11
+    100012: shaizi1:polySurface12
+    100014: shaizi1:polySurface13
+    100016: shaizi1:polySurface14
+    100018: shaizi1:polySurface4
+    100020: shaizi1:polySurface5
+    100022: shaizi1:polySurface6
+    100024: shaizi1:polySurface7
+    100026: shaizi1:polySurface8
+    100028: shaizi1:polySurface9
+    100030: shaizi1:pPlane2
+    100032: shaizi1:pPlane3
+    100034: shaizi1:transform1
+    100036: shaizi1:transform2
+    100038: shaizi1:transform3
+    100040: shaizi1:transform4
+    100042: shaizi1:transform5
+    100044: shaizi1:transform6
+    100046: shaizi1:transform7
+    100048: shaizi1:pPlane4
+    100050: shaizi1:polySurface15
+    100052: shaizi1:polySurface16
+    100054: shaizi1:polySurface17
+    100056: shaizi1:polySurface18
+    100058: shaizi1:polySurface19
+    100060: shaizi1:transform10
+    100062: shaizi1:transform11
+    100064: shaizi1:transform12
+    100066: shaizi1:transform8
+    100068: shaizi1:transform9
+    100070: shaizi1:polySurface20
+    100072: shaizi1:polySurface21
+    100074: shaizi1:polySurface22
+    400000: //RootNode
+    400002: shaizi1:pCube1
+    400004: shaizi1:pCube2
+    400006: shaizi1:polySurface1
+    400008: shaizi1:polySurface10
+    400010: shaizi1:polySurface11
+    400012: shaizi1:polySurface12
+    400014: shaizi1:polySurface13
+    400016: shaizi1:polySurface14
+    400018: shaizi1:polySurface4
+    400020: shaizi1:polySurface5
+    400022: shaizi1:polySurface6
+    400024: shaizi1:polySurface7
+    400026: shaizi1:polySurface8
+    400028: shaizi1:polySurface9
+    400030: shaizi1:pPlane2
+    400032: shaizi1:pPlane3
+    400034: shaizi1:transform1
+    400036: shaizi1:transform2
+    400038: shaizi1:transform3
+    400040: shaizi1:transform4
+    400042: shaizi1:transform5
+    400044: shaizi1:transform6
+    400046: shaizi1:transform7
+    400048: shaizi1:pPlane4
+    400050: shaizi1:polySurface15
+    400052: shaizi1:polySurface16
+    400054: shaizi1:polySurface17
+    400056: shaizi1:polySurface18
+    400058: shaizi1:polySurface19
+    400060: shaizi1:transform10
+    400062: shaizi1:transform11
+    400064: shaizi1:transform12
+    400066: shaizi1:transform8
+    400068: shaizi1:transform9
+    400070: shaizi1:polySurface20
+    400072: shaizi1:polySurface21
+    400074: shaizi1:polySurface22
+    2300000: shaizi1:polySurface10
+    2300002: shaizi1:polySurface11
+    2300004: shaizi1:polySurface12
+    2300006: shaizi1:polySurface13
+    2300008: shaizi1:polySurface14
+    2300010: shaizi1:polySurface9
+    2300012: shaizi1:pPlane2
+    2300014: shaizi1:pPlane3
+    2300016: shaizi1:pPlane4
+    2300018: shaizi1:polySurface16
+    2300020: shaizi1:polySurface17
+    2300022: shaizi1:polySurface18
+    2300024: shaizi1:polySurface19
+    2300026: shaizi1:polySurface20
+    2300028: shaizi1:polySurface21
+    2300030: shaizi1:polySurface22
+    3300000: shaizi1:polySurface10
+    3300002: shaizi1:polySurface11
+    3300004: shaizi1:polySurface12
+    3300006: shaizi1:polySurface13
+    3300008: shaizi1:polySurface14
+    3300010: shaizi1:polySurface9
+    3300012: shaizi1:pPlane2
+    3300014: shaizi1:pPlane3
+    3300016: shaizi1:pPlane4
+    3300018: shaizi1:polySurface16
+    3300020: shaizi1:polySurface17
+    3300022: shaizi1:polySurface18
+    3300024: shaizi1:polySurface19
+    3300026: shaizi1:polySurface20
+    3300028: shaizi1:polySurface21
+    3300030: shaizi1:polySurface22
+    4300000: shaizi1:pPlane2
+    4300002: shaizi1:pPlane3
+    4300004: shaizi1:polySurface9
+    4300006: shaizi1:polySurface10
+    4300008: shaizi1:polySurface11
+    4300010: shaizi1:polySurface12
+    4300012: shaizi1:polySurface13
+    4300014: shaizi1:polySurface14
+    4300016: shaizi1:pPlane4
+    4300018: shaizi1:polySurface17
+    4300020: shaizi1:polySurface18
+    4300022: shaizi1:polySurface16
+    4300024: shaizi1:polySurface19
+    4300026: shaizi1:polySurface20
+    4300028: shaizi1:polySurface21
+    4300030: shaizi1:polySurface22
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

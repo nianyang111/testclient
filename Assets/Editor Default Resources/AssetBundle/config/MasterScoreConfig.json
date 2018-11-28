@@ -1,0 +1,182 @@
+{
+    "1": {
+        "firstScore": 8, 
+        "id": 1, 
+        "masterLevel": 1, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 10
+    }, 
+    "10": {
+        "firstScore": 8, 
+        "id": 10, 
+        "masterLevel": 10, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 320
+    }, 
+    "11": {
+        "firstScore": 8, 
+        "id": 11, 
+        "masterLevel": 11, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 368
+    }, 
+    "12": {
+        "firstScore": 8, 
+        "id": 12, 
+        "masterLevel": 12, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 424
+    }, 
+    "13": {
+        "firstScore": 8, 
+        "id": 13, 
+        "masterLevel": 13, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 488
+    }, 
+    "14": {
+        "firstScore": 8, 
+        "id": 14, 
+        "masterLevel": 14, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 544
+    }, 
+    "15": {
+        "firstScore": 8, 
+        "id": 15, 
+        "masterLevel": 15, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 608
+    }, 
+    "16": {
+        "firstScore": 8, 
+        "id": 16, 
+        "masterLevel": 16, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 672
+    }, 
+    "17": {
+        "firstScore": 8, 
+        "id": 17, 
+        "masterLevel": 17, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 744
+    }, 
+    "18": {
+        "firstScore": 8, 
+        "id": 18, 
+        "masterLevel": 18, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 816
+    }, 
+    "19": {
+        "firstScore": 8, 
+        "id": 19, 
+        "masterLevel": 19, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 888
+    }, 
+    "2": {
+        "firstScore": 8, 
+        "id": 2, 
+        "masterLevel": 2, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 24
+    }, 
+    "20": {
+        "firstScore": 8, 
+        "id": 20, 
+        "masterLevel": 20, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 1000
+    }, 
+    "3": {
+        "firstScore": 8, 
+        "id": 3, 
+        "masterLevel": 3, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 48
+    }, 
+    "4": {
+        "firstScore": 8, 
+        "id": 4, 
+        "masterLevel": 4, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 72
+    }, 
+    "5": {
+        "firstScore": 8, 
+        "id": 5, 
+        "masterLevel": 5, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 104
+    }, 
+    "6": {
+        "firstScore": 8, 
+        "id": 6, 
+        "masterLevel": 6, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 144
+    }, 
+    "7": {
+        "firstScore": 8, 
+        "id": 7, 
+        "masterLevel": 7, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 176
+    }, 
+    "8": {
+        "firstScore": 8, 
+        "id": 8, 
+        "masterLevel": 8, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 224
+    }, 
+    "9": {
+        "firstScore": 8, 
+        "id": 9, 
+        "masterLevel": 9, 
+        "promotionScore": 1, 
+        "secondScore": 5, 
+        "thirdScore": 3, 
+        "upExp": 272
+    }
+}

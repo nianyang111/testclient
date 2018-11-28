@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 27f62499cb15b93498b730cd771a7985
+timeCreated: 1510196950
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: majangpage/sound/sound/mj11
+  assetBundleVariant: 
